@@ -1,0 +1,19 @@
+{
+  "name": "npm-test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "dev": "ls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andhika",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clui": "^0.3.6",
+    "validator": "^13.7.0",
+    "yargs": "^16.2.0"
+  }
+}
